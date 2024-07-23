@@ -29,7 +29,7 @@
         <td><img src="https://github.com/user-attachments/assets/5d9c013b-aa0b-475b-88ff-606d4d3b8da0" alt="04_Enable_location-2"></td>
         <td><img src="https://github.com/user-attachments/assets/6dd9becc-91bb-4201-9e7e-3e8266ec1614" alt="04_Enable_location-3"></td>
         <td><img src="https://github.com/user-attachments/assets/92463ad1-4d25-4650-af03-f271a00a645a" alt="04_Enable_location"></td>
-        <td><img src="https://github.com/user-attachments/assets/7abcb1b1-9df2-4398-a185-1788cdade5eb" alt="05_Welcome _screen-1"></td>
+       
     </tr>
     <tr>
         <td><img src="https://github.com/user-attachments/assets/836f15f1-d8dc-49e3-8197-0d4f37d1f4ee" alt="05_Welcome _screen-2"></td>
