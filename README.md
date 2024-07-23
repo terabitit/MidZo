@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Images Table</title>
-    <style>
+  <style>
         table {
             width: 100%;
             border-collapse: collapse;
@@ -15,8 +15,9 @@
             text-align: center;
         }
         img {
-            max-width: 100%;
-            height: auto;
+            width: 150px; /* Set fixed width */
+            height: 150px; /* Set fixed height */
+            object-fit: cover; /* Ensure images maintain aspect ratio */
         }
     </style>
 </head>
